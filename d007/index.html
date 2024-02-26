@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Imagem</title>
+        <link rel="shortcut icon" href="favicon/favicon.ico" type="image/x-icon"> 
+    </head>
+    <body>
+        <h1>Redimensionamento de imagem</h1>
+
+        <h2>Imagens</h2>
+        <picture>
+            <source media="(max-width: 750px)" srcset="imagens/gato-p.jpg.jpg" type="image/jpg">
+            <source media="(max-width: 1050px)" srcset="imagens/gato-m.jpg.jpg" type="image/jpg">
+            <img src="imagens/gato-g.jpg.jpg" alt="imagem de um gato cinza e branco">
+        </picture>
+    </body>
+</html> 
