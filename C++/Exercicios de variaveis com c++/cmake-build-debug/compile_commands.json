@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/ricardo-de-castro-soares/CLionProjects/untitled1/cmake-build-debug",
-  "command": "/usr/bin/c++ -g -std=gnu++98 -fdiagnostics-color=always -o CMakeFiles/untitled1.dir/main.cpp.o -c /home/ricardo-de-castro-soares/CLionProjects/untitled1/main.cpp",
-  "file": "/home/ricardo-de-castro-soares/CLionProjects/untitled1/main.cpp",
-  "output": "/home/ricardo-de-castro-soares/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.cpp.o"
-}
-]
